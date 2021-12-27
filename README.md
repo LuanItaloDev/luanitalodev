@@ -1,4 +1,4 @@
-<h1>Hey Devs, eu sou o Luan</h1>
+<h1>Hey Devs, eu sou o Luan ⚡</h1>
   
   Hoje, sou Web Developer freelancer, estudante de Análise e Desenvolvimento de Sistemas e estou buscando por uma oportunidade de trabalhar em equipe como Front End.
 
