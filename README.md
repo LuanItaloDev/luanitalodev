@@ -1,27 +1,21 @@
-<h1>Hey Devs, eu sou o Luan ⚡</h1>
-  
-  Hoje, sou Web Developer freelancer, estudante de Análise e Desenvolvimento de Sistemas e estou buscando por uma oportunidade de trabalhar em equipe como Front End.
+Estudante de Análise e Desenvolvimento de Sistemas, programador Web e corredor amador nas horas vagas.
 
-<div align="center">
-  <a href="https://github.com/luanitalodev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanitalodev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanitalodev&layout=compact&langs_count=7&theme=nord"/>
-</div>
+Sou um freelancer apaixonado por tecnologia e adepto ao Lifelong Learning.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="luanitalo.dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="luanitalo.dev-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="luanitalo.dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="luanitalo.dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="luanitalo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
-  <div> 
-    <a href="https://www.instagram.com/luanitalo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-     badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:luanitalo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/luanitalodev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/LuanItaloDev/luanitalodev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Um programador focado no desenvolvimento front-end, possuo habilidades em design, prototipação e bastante conhecimento em Marketing Digital. 
+
+Sou fácil de se relacionar, possuo boa comunicação, adoro aprender e transmitir conhecimento. 
+
+Organização e gestão de tempo são coisas que eu levo a sério nos meus projetos.
+
+>  Ferramentas que possuo conhecimento:
+#ReactJS #vite #MaterialUI #github #git #Firebase #figma #photoshop 
+
+> Meta para os próximos meses
+Ter maiores habilidades em back-end e gestão de projetos 
+
+Durante o desenvolvimento, prefiro me comunicar com a equipe e estar sempre ligado nas etapas do projeto.
+
+Acredito que estar sempre aprendendo é fundamental para o meu desenvolvimento, por isso faço com tanto prazer.
+
+Gosto de ler livros, assistir vídeos, e adoro acompanhar os conteúdos relacionados no https://medium.com/ e no https://dev.to/
